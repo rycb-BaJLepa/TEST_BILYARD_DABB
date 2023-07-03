@@ -1,0 +1,46 @@
+
+Mods: {
+	TEST_BILYARD: {
+		Items: {
+			BILYARD: {
+				DisplayName: BILYARD
+				Tooltip: Konya na G6
+			}
+
+			KozirniyTuzGun: {
+				DisplayName: Kozirniy Tuz
+				Tooltip: Ochen moshnoe oruzhie
+			}
+
+			PasyansGun: {
+				DisplayName: PASYANS
+				Tooltip: STRELYAET KOZIRNIMI SOSISKAMI
+			}
+
+			PosohShahmatMagic: {
+				DisplayName: Shahmati
+				Tooltip: Strelyaet korolevami na F6
+			}
+
+			ShootSword: {
+				DisplayName: Bouling
+				Tooltip: EBAT ONO STRELYAET HUINEY
+			}
+
+			SOSISKA: {
+				DisplayName: SOSISKA
+				Tooltip: EBUCHIE SOSISKI
+			}
+		}
+
+		Projectiles: {
+			NightBeamProjectile.DisplayName: Night Beam Projectile
+			SosiskaBulletProjectile.DisplayName: Sosiska Bullet Projectile
+		}
+
+		NPCs: {
+			WoodSlime.DisplayName: Wooden Slime
+			SM_04.DisplayName: SM-04
+		}
+	}
+}

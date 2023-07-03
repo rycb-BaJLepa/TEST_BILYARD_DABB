@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KB0CxABxb7cOTXyQitKsS3cOUNh9stUpYAsbxlZF1N0I8NVww5paxiY8K0Qj4h9KasNQYe9axoD4oL5GCIS+mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdyl\\OneDrive\\Документы\\My Games\\Terraria\\tModLoader\\ModSources\\TEST_BILYARD\\TEST_BILYARD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdyl\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
